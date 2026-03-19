@@ -1,0 +1,29 @@
+Análise Estatística de Desempenho de Hardware
+
+Este trabalho apresenta uma análise de Probabilidade e Estatística aplicada a um conjunto de dados de desempenho de computadores. O objetivo é explorar relações entre variáveis de hardware utilizando técnicas estatísticas como:
+
+Correlação
+
+Regressão linear
+
+Teste de significância (p-valor)
+
+O estudo busca entender quais características de hardware possuem maior influência no desempenho relativo das máquinas.
+
+Dataset Utilizado
+
+O dataset utilizado é o Computer Hardware Dataset, disponível no UCI Machine Learning Repository.
+
+Ele contém dados sobre o desempenho relativo de diferentes computadores e suas características técnicas.
+
+Informações gerais
+
+Número de instâncias: 209
+
+Número de atributos: 9
+
+Tipo: Multivariado
+
+Problema: Regressão
+
+O dataset descreve o desempenho de CPUs baseado em características como tempo de ciclo, memória e cache.
